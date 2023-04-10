@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# SQL Server Management Studio Solution File, Format Version 19.00
+VisualStudioVersion = 15.0.28307.421
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{4F2E2C19-372F-40D8-9FA7-9D2138C6997A}") = "Beadando", "Beadando\Beadando.ssmssqlproj", "{45076DB6-D066-41EF-8D6C-C0E869C68A1E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Default|Default = Default|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{45076DB6-D066-41EF-8D6C-C0E869C68A1E}.Default|Default.ActiveCfg = Default
+		{03685225-19AA-4DC4-AD44-5BA0BF1D2EE3}.Default|Default.ActiveCfg = Default
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3AD5845D-EE08-4B29-9DA3-3E66E74DF92F}
+	EndGlobalSection
+EndGlobal
